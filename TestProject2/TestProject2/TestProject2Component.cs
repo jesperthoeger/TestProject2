@@ -23,7 +23,7 @@ namespace TestProject2
         public TestProject2Component()
           : base("TestProject2", "Nickname",
               "Description DP2",
-              "CategoryTestbyRasmus", "Subcategory")
+              "CategoryTestbyRasmus2", "Subcategory")
         {
         }
 
